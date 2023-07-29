@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExplicitImplicitIntents</string>
+    <string name="explicit_intent_and_implicit_intent">Explicit Intent and Implicit Intent</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="this_is_explicit_intent">This is Explicit Intent</string>
+</resources>
